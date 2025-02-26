@@ -1,2 +1,2 @@
 # Kodilla_m06
-Module 6 tasks
+6th module tasks
